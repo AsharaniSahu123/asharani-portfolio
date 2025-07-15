@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asharani-portfolio/static/css/main.c8a55351.css",
+    "main.js": "/asharani-portfolio/static/js/main.a47c31b4.js",
+    "static/js/453.ed3810f9.chunk.js": "/asharani-portfolio/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/asharani-portfolio/index.html",
+    "main.c8a55351.css.map": "/asharani-portfolio/static/css/main.c8a55351.css.map",
+    "main.a47c31b4.js.map": "/asharani-portfolio/static/js/main.a47c31b4.js.map",
+    "453.ed3810f9.chunk.js.map": "/asharani-portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a55351.css",
+    "static/js/main.a47c31b4.js"
+  ]
+}
